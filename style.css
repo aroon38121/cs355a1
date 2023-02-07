@@ -1,0 +1,12 @@
+body {
+    background-color: cyan; color: white;
+}
+div {
+    padding: 5px;
+    margin: 5px;
+    background-color: brown;
+}
+.special {
+    background-color: blue;
+    font-size: 16pt;
+}
